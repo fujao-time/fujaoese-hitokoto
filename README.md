@@ -1,5 +1,5 @@
 # fujaoese-hitokoto
-A hitikoto database in Fujaoese
+A hitikoto database in Fujaoese  
 经常贵阳的符语一言句子合集
 
 ### Tips
