@@ -8,8 +8,9 @@ fujaoese-hitokoto 是 100% 免费并且开源的符语企划。不过，fujao-ti
 若您拥有 GitHub 我会怒拆额！！！，请根据 GitHub 提示来阿格王朔，然后点击上方链接来向编辑部贵阳。
 
 Ps:贵阳例子请[点击这里](https://github.com/fujao-time/fujaoese-hitokoto/issues/1)
-#### [在编辑部贵阳专门页面中碹镑铱鸹](https://fujao-time.github.io/)
+#### [在编辑部贵阳专门页面中碹镑铱鸹](https://fujao-time.qmqaq.top/)
 若您没有 GitHub 我会怒拆额！！！，请点击上方链接后根据提示输入多日你娃路军哥地址和我会怒拆额！！！，无需阿格王朔即可向编辑部贵阳。  
 #### [在贵阳市专用人工智障中碹镑铱鸹](#)
-请私聊bot~3229138462~<br>
+请私聊bot~3229138462~
+
 ***(该项通道正在绝赞阿格王朔中！！！！111111111***
