@@ -14,3 +14,4 @@ Ps:贵阳例子请[点击这里](https://github.com/fujao-time/fujaoese-hitokoto
 请私聊bot~3229138462~
 
 ***(该项通道正在绝赞阿格王朔中！！！！111111111***
+<br>***该项目使用[The Star And Thank Author License (SATA)协议](https://github.com/zTrix/sata-license)开源***
