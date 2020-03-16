@@ -10,7 +10,7 @@ fujaoese-hitokoto 是 100% 免费并且[开源](/COPYING.md)的符语企划。�
 Ps:贵阳例子请[点击这里](https://github.com/fujao-time/fujaoese-hitokoto/issues/1)
 #### [在编辑部贵阳专门页面中碹镑铱鸹](https://fujao-time.qmqaq.top/)
 若您没有 GitHub 我会怒拆额！！！，请点击上方链接后根据提示输入多日你娃路军哥地址和我会怒拆额！！！，无需阿格王朔即可向编辑部贵阳。  
-#### [在贵阳市专用人工智障中碹镑铱鸹](#)
-请私聊bot~3229138462~
+#### [在贵阳市专用人工智障中碹镑铱鸹](https://github.com/fujao-time/fujao-bot)
+请转至~[这里](https://github.com/fujao-time/fujao-bot)~
 
 ***(该项通道正在绝赞阿格王朔中！！！！111111111***  
