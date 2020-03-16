@@ -1,7 +1,12 @@
 # fujao-time 编辑部档案
-### Markdown 格式
+### Markdown 格式 （可在线查看）
 - [句子合集](./sentence.md)
 - [符语本家合集](./fujaoese.md)
+
+### 纯文本格式 （便于离线查看）
+您可于 `https://cdn.jsdelivr.net/gh/fujao-time/fujaoese-hitokoto/sentence.txt` 下载句子合集。
+
+第一行为该文件包含的句子总数，接下来每行一个句子。
 
 ### JSON 格式 （便于自动操作）
 JSON 接口分为 `ver.json` 和 `sentence.json`，请使用 `https://cdn.jsdelivr.net/gh/fujao-time/fujaoese-hitokoto/****.json` 拉取，无需指派版本号。
